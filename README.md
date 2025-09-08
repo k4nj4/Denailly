@@ -1,6 +1,6 @@
-### Olá, eu sou o Danilo!
+### Hello World!
 
-- 🔭 Hoje trabalho com Front-end ReactJS
+- 🔭 Hoje trabalho com Segurança da Informação
 - 🌱 Atualmente estudo Cybersecurity na FIAP
 
 <div>
